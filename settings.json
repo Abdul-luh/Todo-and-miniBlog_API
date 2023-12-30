@@ -1,0 +1,10 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.wordWrap": "on",
+	"editor.formatOnType": true,
+	"editor.colorDecorators": true,
+	"editor.autoIndent": "full"
+}
